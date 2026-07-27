@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Narciso Casas 👋
 
-<!--
-**NarcisoCasas/NarcisoCasas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT Systems Analyst with a strong background in ensuring that critical corporate ecosystems run in perfect sync. I specialize in auditing IT architectures, identifying bottlenecks, and optimizing system performance. 
 
-Here are some ideas to get you started:
+Currently, I am actively expanding my career into **QA Automation**. My goal is to leverage my analytical background to prevent root-cause issues and ensure flawless software delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Focusing On:
+- 📖 Completing my QA Manual & Automation Certifications.
+- ⚙️ Learning to automate tests and build solid QA frameworks.
+- 🔄 Applying Continuous Improvement methodologies to software lifecycles[cite: 2].
+
+### 🛠️ Tech Stack & Core Skills:
+- **Data & Analytics:** SQL Server (Complex queries, JOINS), Python, Power BI[cite: 2].
+- **Ecosystems & Integrations:** SAP S/4HANA MM, WMS-JDA, Microsoft 365 Cloud[cite: 2].
+- **IT Management:** Agile Methodologies, Risk Management, Jira Service Management[cite: 2].
+
+📫 **Let's connect:** jose_2001_14@outlook.com
